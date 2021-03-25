@@ -2,17 +2,17 @@
 
 Hi, I'm Matheus, an Engineer from Brazil.
 
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheustex/)](https://www.linkedin.com/in/matheustex/)
-[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:ti.matheusf@gmail.com)](mailto:ti.matheusf@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-matheustex-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheustex/)](https://www.linkedin.com/in/matheustex/)
+[![Gmail Badge](https://img.shields.io/badge/-ti.matheusf@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:ti.matheusf@gmail.com)](mailto:ti.matheusf@gmail.com)
 [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/10816970/matheus-ferreira)
 
 <h2>⚡️ A Few Quick Facts</h2>
-<>
 <li>🔭 I’m currently working on GO SDK for Dwolla, it will be available soon</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>Node</strong>, and a bit of <strong>React</strong>.</li>
 <li>💬 Ping me about <strong>Angular .Net, JS,and cloud stuff</strong>.</li>
 
-- 🔭 I’m currently working on a Project in Angular, Node(TS) and the Serverless framework:
+<p></p>
+<li> 🔭 I’m currently working on an experimental project in Angular, Node(TS) and the Serverless framework:</li>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheustex&repo=LSM-UI)](https://github.com/matheustex/LSM-UI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matheustex&repo=LightSupplyManagement)](https://github.com/matheustex/LightSupplyManagement)
